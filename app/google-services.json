@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330899390704",
+    "project_id": "academiccare-9ac2d",
+    "storage_bucket": "academiccare-9ac2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330899390704:android:2dcd5f8ce0470e924c0235",
+        "android_client_info": {
+          "package_name": "my.edu.uthm.academiccare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgd68Z273HCQUNNaFD8fubrIBEq2tFBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

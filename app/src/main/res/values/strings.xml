@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AcademicCare</string>
+    <string name="academicare">AcademicCare</string>
+    <string name="uthm_campus_management">Campus Life Student Management System</string>
+    <string name="uthm_student_email">UTHM Student Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="identity">Full Name (as per IC or Passport)</string>
+</resources>
